@@ -1,2 +1,11 @@
-*.crx
+# Prevent accidental key leaks
 *.pem
+
+# Ignore packaged versions
+*.crx
+
+# System/Editor stuff
+.DS_Store
+*.log
+node_modules/
+dist/

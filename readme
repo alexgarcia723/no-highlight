@@ -1,0 +1,24 @@
+
+
+# Query Param Cleaner (Opera GX Extension)
+
+This browser extension allows you to remove specific query parameters from URLs (like `hilit`, `utm_source`, etc.) and set site-specific blacklists where cleanup should not apply. It also features a popup UI with a dark mode toggle.
+
+## Features
+
+- ✅ Clean URL tracking/query junk
+- ✅ Customizable param removal
+- ✅ Site blacklist support
+- ✅ Dark mode UI
+- ✅ Easy popup interface
+
+## Install
+
+1. Clone this repo
+2. Go to `opera://extensions`
+3. Enable Developer Mode
+4. Click “Load unpacked” and select this folder
+
+**Do NOT commit the `.pem` key!**
+
+📄 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
